@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Hola, soy Guillermo Malca 👋</h1>
   
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat" height="150">
+  
+  <br>
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;AI+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
   
   <br><br>
